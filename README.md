@@ -10,7 +10,9 @@ Team members can use the repo to fork, amend, and merge-back code and other docu
 # Who will use this repo or project?
 Team members and mentors
 
-We are a team of 5 workmates who have come together to enter this coding competition, so that we can learn new sills
+We are a team of 5 workmates who have come together to enter this coding competition, so that we can learn new skills
+
+We also have two mentors (experienced developers) who we can call on to guide our work (but not to do it for us !)
 
 What is the goal of this project?
 To produce a solution that meets the challenge to produce an Alexa Skill that supports Learning Through Play
