@@ -1,7 +1,7 @@
 # Coding-Competition
 
 # What is this repo?
-This is a shared Repo for our team ("It Takes 10 to Tango") in the Code Competition 2019
+This is a shared Repo for our team (**_"It Takes 10 to Tango"_**) in the Code Competition 2019
 
 # How does it work?
 
