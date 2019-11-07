@@ -12,6 +12,8 @@ an understanding of the role played by two or more partners is essential to
 understanding the outcome.
 
 **_"It takes 10 to tango"_** is our team's interpretation of this expression, 
-using the binary two (10). It reflects our commitment to work together to achieve 
+using the binary two (10).
+
+It reflects our commitment to work together to achieve 
 an outcome that reflects our individual contributions, yet is more than the sum
 of it's parts.
