@@ -1,10 +1,14 @@
 # About Us
 
-**_"It takes two to tango"_** is a common expression which suggests that an outcome
-(often one with shocking or negative consequences) cannot be wholly attributed to 
-the actions of just one individual, but rather reflects the dynamic between two 
-or more actors whose actions are linked.
+  <img src="/images/It takes two to tango.jpg" width="500" />
 
+**_"It takes two to tango"_** is a common expression which suggests that an outcome
+(often one with negative consequences) cannot be wholly attributed to the actions 
+of just one individual or group, but rather reflects the dynamic between two or more
+indivuals or groups whose actions are linked.
+
+  <img src="/images/DWTSLogo2018.jpg" width="500" />
+  
 The tango is a dance which requires two partners moving in relation to each other, 
 sometimes in tandem, sometimes independently, or even in opposition to each other.
 The meaning of this expression has been extended to include any situation in which
@@ -20,4 +24,4 @@ of it's parts.
 
 
 
-  <img src="/images/10 to Tango.jpg" />
+  <img src="/images/10 to Tango.jpg"  width="500" />
