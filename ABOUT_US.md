@@ -18,4 +18,6 @@ It reflects our commitment to work together to achieve
 an outcome that reflects our individual contributions, yet is more than the sum
 of it's parts.
 
-<img src="/images/10 to Tango.jpg" />
+
+
+  <img src="/images/10 to Tango.jpg" />
