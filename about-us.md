@@ -22,8 +22,9 @@ using the binary two (10).
 
 It reflects our commitment to work together to achieve an outcome that reflects
 our individual contributions, yet is more than the sum of it's parts.
-
-
-
-_Perfect 10 and Series 10 Images courtesy of "Dancing With the Stars"_
+   \
+   \
+   \
+   \
+_* Perfect 10 and Series 10 Images courtesy of "Dancing With the Stars"_
 
