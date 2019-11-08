@@ -14,15 +14,16 @@ an understanding of the role played by two or more partners is essential to
 understanding the outcome.
 
   <img src="/images/DWTSLogo2018.jpg" width="500" />
-  
+
 **_"It takes 10 to tango"_** is our team's interpretation of this expression, 
 using the binary two (10).
 
   <img src="/images/10 to Tango.jpg"  width="500" />
 
-It reflects our commitment to work together to achieve 
-an outcome that reflects our individual contributions, yet is more than the sum
-of it's parts.
+It reflects our commitment to work together to achieve an outcome that reflects
+our individual contributions, yet is more than the sum of it's parts.
 
 
+
+_Perfect 10 and Series 10 Images courtesy of "Dancing With the Stars"_
 
